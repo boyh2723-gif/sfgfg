@@ -1,5 +1,6 @@
 {
-  "md_e": true,
-  "v_n": 5.1.0,
-  "Spe": "online"
+  "maintenance": false,
+  "message": "",
+  "min_version_code": 1,
+  "config_rev": 1
 }
