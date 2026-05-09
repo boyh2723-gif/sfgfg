@@ -1,5 +1,5 @@
 {
-   "maintenance": true,
+   "maintenance": false,
    "message": "Mod unavailable",
    "min_version_code": 1,
    "config_rev": 3
