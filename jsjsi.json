@@ -1,5 +1,5 @@
 {
-   "maintenance": false,
+   "maintenance": true,
    "message": "",
    "min_version_code": 1,
    "config_rev": 3
