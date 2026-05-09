@@ -1,7 +1,6 @@
 {
-   "maintenance": false,
-   "message": "[i]Mod unavailable
-   [i]Shutting down.",
+   "maintenance": true,
+   "message": "[i]Mod unavailable[i]<br>Shutting down.",
    "min_version_code": 1,
    "config_rev": 3
  }
